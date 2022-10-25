@@ -1,0 +1,6 @@
+{
+    "cmake.sourceDirectory": "${workspaceFolder}/windows/flutter",
+    "editor.suggest.showStatusBar": false,
+    "zenMode.hideStatusBar": true,
+    "workbench.statusBar.visible": true
+}
